@@ -1,1 +1,2 @@
-# Manipulaci-n-del-DOM-b-sica
+# Curso-practico-JS
+
